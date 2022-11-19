@@ -1,2 +1,2 @@
  My first readme. 
- Updating the contains of readme.md file
+ How to pull change from github interface.
